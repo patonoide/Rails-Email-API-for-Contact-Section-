@@ -14,7 +14,7 @@
 
 6.I may or may not add a few more things to the project, such as implementing other functions on the front-end.
 
-## Installation and Congiguration Process
+## Installation and Configuration Process
 
 You should have Ruby 2.5 and Postgresql installed
 
